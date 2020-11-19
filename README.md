@@ -86,5 +86,6 @@ from sklearn.model_selection import GridSearchCV
 ## Fonte de Dados
 
 Dataset: Telco-Customer-Churn.csv
+
 Disponível em: https://www.kaggle.com/blastchar/telco-customer-churn
 
